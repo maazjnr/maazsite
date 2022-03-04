@@ -1,0 +1,71 @@
+h3{
+    text-align: center;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: rgb(58, 55, 50);
+}
+
+.gar{
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: rgb(58, 55, 50);
+    text-align: left;
+    margin-top: -10px;
+}
+
+.logo{
+    width: 80px;
+    height: 70px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.myname h2{
+    font-size: 50px;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+strong{
+    font-size: 40px;
+    color: orange;
+    letter-spacing: 5px;
+}
+
+.btn-dark{
+    padding: 30px;
+}
+
+.btn-dark0{
+    padding: 20px;
+}
+
+.btn2{
+    padding: 12px;
+    background-color: rgb(30, 32, 32);
+    color: white;
+    width: 150px;
+    height: 50px;
+}
+
+.instagram:hover{
+    background-color: black;
+}
+
+.down3{
+    background: url(images/view\ the\ eath.jpg);
+    background-size: cover;
+    background-position: center;
+    max-width: 90%;
+   min-height: 200px;
+   border-radius: 100px;
+   padding: 10px;
+   margin-bottom: 15px;
+}
